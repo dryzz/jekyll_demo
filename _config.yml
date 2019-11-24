@@ -22,7 +22,7 @@ title: 我的 jekyll 测试
 email: 13697191004@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   一万年之后人类是否还存在，人类是否已经经历核洗礼，进入了星河文明；那时候我又在哪里呢，人死之后会是什么样子的呢？
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll_demo" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
